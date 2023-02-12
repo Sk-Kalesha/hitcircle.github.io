@@ -4,4 +4,4 @@
 2. By using canvas element drawn circles and arrows.
 3. CSS is used for styling and 
 4. When clicked on the circle the corresponding arrow hits and circle and simultaneously the color of the circle changes. This is achieved by using JavaScript. 
-5. Have a look and experience it, Thank you!
+5. Have a look and experience it, https://sk-kalesha.github.io/hitcircle.github.io/ Thank you!
